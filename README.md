@@ -15,6 +15,7 @@ The dataset contains customer information, including:
 - Service usage
 - Payment methods
 - Customer churn status
+- ...
 
 The data was used to explore customer behavior patterns and factors associated with customer retention and churn.
 
@@ -59,12 +60,12 @@ The data was used to explore customer behavior patterns and factors associated w
 - Wrote SQL queries to answer business questions.
 - Generated metrics related to customer churn, revenue, contracts, and service usage.
 
-### 5. Dashboard Development
+### 5. Dashboard Development （still working）
 - Built an interactive Tableau dashboard.
 - Visualized key performance indicators.
 - Enabled filtering and exploration of customer segments.
 
-### 6. Reporting & Presentation
+### 6. Reporting & Presentation （still working）
 - Summarized findings in a business report.
 - Created a presentation deck using Gamma AI.
 - Communicated insights and recommendations for decision-makers.
