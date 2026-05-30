@@ -60,15 +60,21 @@ The data was used to explore customer behavior patterns and factors associated w
 - Wrote SQL queries to answer business questions.
 - Generated metrics related to customer churn, revenue, contracts, and service usage.
 
-### 5. Dashboard Development （still working）
-- Built an interactive Tableau dashboard.
-- Visualized key performance indicators.
-- Enabled filtering and exploration of customer segments.
+### 5. Predictive Modeling
+- Built a Logistic Regression model to identify factors associated with customer churn.
+- Interpreted model coefficients to understand churn drivers.
+- Developed a Random Forest model to evaluate feature importance.
+- Compared model findings with SQL-based business insights.
 
-### 6. Reporting & Presentation （still working）
-- Summarized findings in a business report.
-- Created a presentation deck using Gamma AI.
-- Communicated insights and recommendations for decision-makers.
+### 6. Dashboard Development (In Progress)
+- Building an interactive Tableau dashboard.
+- Visualizing key performance indicators and churn metrics.
+- Enabling filtering and exploration of customer segments.
+
+### 7. Reporting & Presentation (In Progress)
+- Summarizing findings in a business report.
+- Creating a presentation deck using Gamma AI.
+- Communicating insights and recommendations for decision-makers.
 
 ---
 
